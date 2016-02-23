@@ -54,3 +54,6 @@ Thumbs.db
 # Ignore Spring files #
 #######################
 /spring/*.pid
+
+# Ignore uploaded test images.
+/public/uploads
